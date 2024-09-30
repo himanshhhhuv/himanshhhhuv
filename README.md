@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi there! I'm Himanshu Verma, a tech enthusiast from Moradabad,India ! Crafting code, chasing innovation, and embracing challenges! 🚀✨</h2>
+<h2 align="left">👋 Hi there! I'm Himanshu Verma, a tech enthusiast. Crafting code, chasing innovation, and embracing challenges! 🚀✨</h2>
 
 ###
 
